@@ -4,15 +4,15 @@
 https://github.com/jonashackt/spring-boot-vuejs.git
 
 ## install
-gradle
-java
-node
+- gradle
+- java
+- node
 
 ## run
-backend : run spring boot application
-frontend : npm run serve
+- backend : run spring boot application
+- frontend : npm run serve
 
 ## port
 
-backend : 8089
-frontend : 8088
+- backend : 8089
+- frontend : 8088
